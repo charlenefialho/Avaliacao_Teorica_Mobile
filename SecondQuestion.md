@@ -1,0 +1,2 @@
+## 2)Descreva como desenvolvemos interfaces em aplicações Android nativas em Kotlin
+        Primeiramente em Project dentro de Res>layout abrimos o activity_main.xml assim abriremos o layout editor onde temos no Palette com opções paa acrescentar texto,botões, widgets e etc.Em baixo temos o Component Tree onde podemos ver o "historico" do que foi adicionado e temos as constrains e são elas que definem a posição de cada visualização do lado esquerdo mostra-se todos os atributos da vizualização podendo mudar o nome a rotação o tamanho e etc.
