@@ -12,6 +12,9 @@
 
     Logo acima temos a camda de estrutura da Java Api onde sâo APIs programadas em Java que da a disponibilidade dos recursos do sistema android que são necessarios para a criação de APPs android permitindo de forma simplifica a reutilização de serviços e componentes do sistema.
     Agora o topo da camada o "System Apps" que são os aplicativos principais que ja vem programado   para o usuario utilizar como por exemplo email,calendario,contatos e etc.
+## 2)Descreva como desenvolvemos interfaces em aplicações Android nativas em Kotlin
+        Primeiramente em Project dentro de Res>layout abrimos o activity_main.xml assim abriremos o layout editor onde temos no Palette com opções paa acrescentar texto,botões, widgets e etc.Em baixo temos o Component Tree onde podemos ver o "historico" do que foi adicionado e temos as constrains e são elas que definem a posição de cada visualização do lado esquerdo mostra-se todos os atributos da vizualização podendo mudar o nome a rotação o tamanho e etc.
+
 
 
 
