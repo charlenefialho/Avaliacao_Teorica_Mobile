@@ -1,0 +1,2 @@
+## 9)Descreva como podemos testar aplicações android em nossos próprios celulares.
+        Nas configurações do celular deve-se clicar várias vezes no numero da versão assim ativando modo "Opções do desenvolvedor",ativando o modo em depuração temos que ativar a opção Depuração USB,assim quando for rodar o programa no android studio com o celular conectado via USB o seu APP irá rodar direto no celular.
